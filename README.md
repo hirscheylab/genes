@@ -29,7 +29,7 @@ devtools::install_github("hirscheylab/genes")
 
 ## Example
 
-This is a basic example which shows you how to solve a common problem:
+This is how to take a `glimpse` into the genes dataset:
 
 ``` r
 library(genes)
